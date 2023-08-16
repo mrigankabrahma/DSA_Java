@@ -1,4 +1,4 @@
-//Print 5 numbers in Java
+//Print 5 numbers in Java in java
 public class Basic {
     public static void main(String[] args) {
         {
